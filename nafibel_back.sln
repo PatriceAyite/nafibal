@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nafibel_back", "nafibel_back\nafibel_back.csproj", "{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nafibel.DATA", "nafibel.DATA\nafibel.DATA.csproj", "{D9F1789B-903F-4327-BFC9-1315442D4B5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nafibel.SERVICE", "nafibel.SERVICE\nafibel.SERVICE.csproj", "{0EC4F9F0-910A-47B7-926F-CE5983C7AD4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nafibel.TESTS", "nafibel.TESTS\nafibel.TESTS.csproj", "{53E3C2E6-817F-4B46-B36C-55B7F3F3394A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F1789B-903F-4327-BFC9-1315442D4B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F1789B-903F-4327-BFC9-1315442D4B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F1789B-903F-4327-BFC9-1315442D4B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F1789B-903F-4327-BFC9-1315442D4B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC4F9F0-910A-47B7-926F-CE5983C7AD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC4F9F0-910A-47B7-926F-CE5983C7AD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC4F9F0-910A-47B7-926F-CE5983C7AD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC4F9F0-910A-47B7-926F-CE5983C7AD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E3C2E6-817F-4B46-B36C-55B7F3F3394A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E3C2E6-817F-4B46-B36C-55B7F3F3394A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E3C2E6-817F-4B46-B36C-55B7F3F3394A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E3C2E6-817F-4B46-B36C-55B7F3F3394A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

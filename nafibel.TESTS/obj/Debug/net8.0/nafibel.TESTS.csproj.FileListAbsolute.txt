@@ -1,0 +1,12 @@
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\bin\Debug\net8.0\nafibel.TESTS.deps.json
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\bin\Debug\net8.0\nafibel.TESTS.dll
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\bin\Debug\net8.0\nafibel.TESTS.pdb
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.AssemblyInfoInputs.cache
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.AssemblyInfo.cs
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.csproj.CoreCompileInputs.cache
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.sourcelink.json
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.dll
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\refint\nafibel.TESTS.dll
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.pdb
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\ref\nafibel.TESTS.dll

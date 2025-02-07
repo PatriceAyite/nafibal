@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nafibel.TESTS/1.0.0": {
+        "runtime": {
+          "nafibel.TESTS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nafibel.TESTS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
