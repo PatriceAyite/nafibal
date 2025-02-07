@@ -10,3 +10,6 @@ D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.dll
 D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\refint\nafibel.TESTS.dll
 D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.pdb
 D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\ref\nafibel.TESTS.dll
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\bin\Debug\net8.0\nafibel.TESTS.runtimeconfig.json
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.csproj.AssemblyReference.cache
+D:\NAFIBEL_BACK\nafibel_back\nafibel.TESTS\obj\Debug\net8.0\nafibel.TESTS.genruntimeconfig.cache

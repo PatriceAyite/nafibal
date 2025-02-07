@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nafibel.TESTS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00b48c521408ec37530fffeaf6eafaff907a0dbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3324401a036c738a97caaa30bc0300687926cd33")]
 [assembly: System.Reflection.AssemblyProductAttribute("nafibel.TESTS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nafibel.TESTS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
