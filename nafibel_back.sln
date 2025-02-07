@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nafibel_back", "nafibel_back\nafibel_back.csproj", "{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBF18F0-975B-43D7-A92C-3B39BCE51E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

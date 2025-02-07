@@ -1,0 +1,6 @@
+@nafibel_back_HostAddress = http://localhost:5102
+
+GET {{nafibel_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
