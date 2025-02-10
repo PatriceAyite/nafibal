@@ -90,6 +90,10 @@
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "Ulid": {
+              "target": "Package",
+              "version": "[1.3.4, )"
             }
           },
           "imports": [

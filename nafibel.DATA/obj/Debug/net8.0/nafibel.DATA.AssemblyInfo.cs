@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nafibel.DATA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3324401a036c738a97caaa30bc0300687926cd33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+146f2fd5a4f4c899398fd2bbf6b7f757d092c3a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("nafibel.DATA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nafibel.DATA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

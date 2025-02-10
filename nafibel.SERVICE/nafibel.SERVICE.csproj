@@ -23,4 +23,12 @@
     <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="9.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\nafibel.DATA\nafibel.DATA.csproj" />
+  </ItemGroup>
+
 </Project>
